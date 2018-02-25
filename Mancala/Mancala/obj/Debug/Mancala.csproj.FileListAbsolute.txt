@@ -1,0 +1,7 @@
+C:\Users\jon.ator\source\repos\Mancala\Mancala\bin\Debug\Mancala.exe.config
+C:\Users\jon.ator\source\repos\Mancala\Mancala\bin\Debug\Mancala.exe
+C:\Users\jon.ator\source\repos\Mancala\Mancala\bin\Debug\Mancala.pdb
+C:\Users\jon.ator\source\repos\Mancala\Mancala\obj\Debug\Mancala.csprojResolveAssemblyReference.cache
+C:\Users\jon.ator\source\repos\Mancala\Mancala\obj\Debug\Mancala.csproj.CoreCompileInputs.cache
+C:\Users\jon.ator\source\repos\Mancala\Mancala\obj\Debug\Mancala.exe
+C:\Users\jon.ator\source\repos\Mancala\Mancala\obj\Debug\Mancala.pdb

@@ -1,0 +1,7 @@
+C:\Users\jon.ator\Desktop\ACM Practice\A Classy Problem\A Classy Problem\bin\Debug\A Classy Problem.exe.config
+C:\Users\jon.ator\Desktop\ACM Practice\A Classy Problem\A Classy Problem\bin\Debug\A Classy Problem.exe
+C:\Users\jon.ator\Desktop\ACM Practice\A Classy Problem\A Classy Problem\bin\Debug\A Classy Problem.pdb
+C:\Users\jon.ator\Desktop\ACM Practice\A Classy Problem\A Classy Problem\obj\Debug\A Classy Problem.csprojResolveAssemblyReference.cache
+C:\Users\jon.ator\Desktop\ACM Practice\A Classy Problem\A Classy Problem\obj\Debug\A Classy Problem.csproj.CoreCompileInputs.cache
+C:\Users\jon.ator\Desktop\ACM Practice\A Classy Problem\A Classy Problem\obj\Debug\A Classy Problem.exe
+C:\Users\jon.ator\Desktop\ACM Practice\A Classy Problem\A Classy Problem\obj\Debug\A Classy Problem.pdb
